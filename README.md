@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado em ReactJS com base no canal do youtube "Bonieky Lacerda"
 
 ## Available Scripts
 
